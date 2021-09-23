@@ -1,2 +1,0 @@
-# testing
-A simple test
